@@ -25,10 +25,11 @@ this organization for learning **how to dockerize android project for make the d
 
 ## Technologies
 ### dap-mobile
-- Java Android
+- Java 11
 - SDK 30
 - SDKManager
 - OkHttp3
+- Gradle 2.7.0
 
 ### dap-backend
 - Springboot 2.7^
