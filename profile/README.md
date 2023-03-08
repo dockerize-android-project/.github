@@ -1,4 +1,4 @@
-## Welcome to Dockerize Android Project Organization, 
+## Welcome to 'Dockerize Android Project'
 My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://nexsoft.co.id/ from Indonesia.
 **Loves writing and coding enthusiast** who always **keeps learning** about software engineering skills for make me **keep an update and strenghts skills** 🚀
 
@@ -9,8 +9,7 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 | Medium | https://deni-setiawan.medium.com/ |
 
 
-
-## what is 'Dockerize Android Project' organization
+## what is 'Dockerize Android Project'
 this organization for learning **how to dockerize android project for make the development and testing so easy and simple**.
  
 ### Overviews
