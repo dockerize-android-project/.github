@@ -24,7 +24,7 @@ this organization for learning **how to dockerize android project for make the d
 
 | Project Name     | Description  | URL Repository                                                          | 
 |------------------|--------------|-------------------------------------------------------------------------|
-| dap-documentation |Documetation Project | https://github.com/dockerize-android-project/dap-documentation                                        |
+| dap-documentation |Documetation Project | https://github.com/denitone/dap-documentation                                        |
 | dap-mobile | Android project | https://github.com/denitone/dap-mobile                                         |
 | dap-backend |backend Project | https://github.com/denitone/dap-backend                                        |
 
