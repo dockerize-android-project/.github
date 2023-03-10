@@ -5,7 +5,7 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 ### About Me
 | Profile     | URL                                                          | 
 |------------------|--------------|
-| Github | https://github.com/denixetiawan |
+| Github | https://github.com/denitone |
 | Medium | https://deni-setiawan.medium.com/ |
 
 
@@ -25,8 +25,8 @@ this organization for learning **how to dockerize android project for make the d
 | Project Name     | Description  | URL Repository                                                          | 
 |------------------|--------------|-------------------------------------------------------------------------|
 | dap-documentation |Documetation Project | https://github.com/dockerize-android-project/dap-documentation                                        |
-| dap-mobile | Android project | https://github.com/denixetiawan/dap-mobile                                         |
-| dap-backend |backend Project | https://github.com/denixetiawan/dap-backend                                        |
+| dap-mobile | Android project | https://github.com/denitone/dap-mobile                                         |
+| dap-backend |backend Project | https://github.com/denitone/dap-backend                                        |
 
 
 
