@@ -10,7 +10,7 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 | Github | https://github.com/denitiawan |
 | Medium | https://deni-setiawan.medium.com/ |
 
-# 1. what is 'Dockerize React Project'
+# 1. what is 'Dockerize Android Project'
 Here we will learning how to dockerize Android project for make simplify the development and testing. our application will running well, no matter with different machine or computer, because application will running on docker container.
 
 ### 1.1. Overviews
@@ -45,7 +45,7 @@ Here we will learning how to dockerize Android project for make simplify the dev
 ### Repositories
 | Project Name     | Description  | URL Repository                                                          | 
 |------------------|--------------|-------------------------------------------------------------------------|
-| dap-documentation |Documetation Project | [...](https://github.com/denitiawan/dap-documentation)|
+| dap-documentation | Documetation | [...](https://github.com/denitiawan/dap-documentation)|
 | dap-mobile | Android project | [...](https://github.com/denitiawan/dap-mobile)|
 | dap-backend |backend Project | [...](https://github.com/denitiawan/dap-backend)|
 
