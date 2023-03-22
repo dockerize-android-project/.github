@@ -10,6 +10,7 @@ My Name is **Deni Setiawan**, I am **Backend Dev & System Analyst** at http://ne
 | Github | https://github.com/denitiawan |
 | Medium | https://deni-setiawan.medium.com/ |
 
+
 # 1. what is 'Dockerize Android Project'
 Here we will learning how to dockerize Android project for make simplify the development and testing. our application will running well, no matter with different machine or computer, because application will running on docker container.
 
